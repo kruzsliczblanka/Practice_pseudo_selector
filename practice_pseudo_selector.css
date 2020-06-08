@@ -1,0 +1,13 @@
+p {
+    width: 200px;
+    text-align: left;
+    border: 1px solid black;
+    border-bottom: 0px;
+    margin: 0px;
+    padding: 10px;
+}
+
+p:hover {
+    background-color: orange;
+    color: black;
+}
